@@ -1,4 +1,4 @@
-package pl.coderslab.webapp;
+package pl.ireneuszderucki.webapp;
 
 import javax.servlet.ServletContext;
 import javax.servlet.ServletException;
@@ -8,7 +8,7 @@ import org.springframework.web.WebApplicationInitializer;
 import org.springframework.web.context.support.AnnotationConfigWebApplicationContext;
 import org.springframework.web.servlet.DispatcherServlet;
 
-import pl.coderslab.conf.AppConfiguration;
+import pl.ireneuszderucki.conf.AppConfiguration;
 
 public class ApplicationInitializer implements WebApplicationInitializer {
 

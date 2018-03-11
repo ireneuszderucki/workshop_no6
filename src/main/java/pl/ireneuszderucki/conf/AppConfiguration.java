@@ -1,4 +1,4 @@
-package pl.coderslab.conf;
+package pl.ireneuszderucki.conf;
 
 import java.util.Locale;
 
